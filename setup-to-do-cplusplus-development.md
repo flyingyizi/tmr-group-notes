@@ -183,14 +183,12 @@ you can refer [vcpkg introduction](https://italiancpp.github.io/wp-statico/www.i
 
 install vcpkg:
 
-- for windows: scoop install vcpkg
-- for linux/macos: 
  ```sh
   # step 1: Clone the vcpkg repo
   git clone https://github.com/Microsoft/vcpkg.git
 
   # Make sure you are in the directory you want the tool installed to before doing this.
-  # Step 2: Run the bootstrap script to build vcpkg
+  # Step 2: Run the bootstrap script to build vcpkg. in windows, it is bootstrap-vcpkg.bat
   ./vcpkg/bootstrap-vcpkg.sh
  ```
 
