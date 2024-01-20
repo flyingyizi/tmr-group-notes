@@ -123,6 +123,15 @@ Mutually exclusive events are events that cannot happen at the same time.
 
     For example, if the probability of throwing a 3 with one die is ${\frac  {1}{6}}$, and the probability of throwing a 4 with one die is also ${\frac  {1}{6}}$, to find the probability of both events happening, you would calculate: ${\frac  {1}{6}}+{\frac  {1}{6}}={\frac  {2}{6}}={\frac  {1}{3}}$ So, the probability of throwing a 3 or a 4 is 1 out of 3.
 
+## monty hall problem
+
+![](https://brilliant-staff-media.s3-us-west-2.amazonaws.com/tiffany-wang/gWotbuEdYC.png)
+
+
+In the problem, you are on a game show, being asked to choose between three doors. Behind each door, there is either a car or a goat. You choose a door. The host, Monty Hall, picks one of the other doors, which he knows has a goat behind it, and opens it, showing you the goat. (You know, by the rules of the game, that Monty will always reveal a goat.) Monty then asks whether you would like to switch your choice of door to the other remaining door. Assuming you prefer having a car more than having a goat, do you choose to switch or not to switch?
+
+The solution is that switching will let you win twice as often as sticking with the original choice
+
 
 ## ref
 
