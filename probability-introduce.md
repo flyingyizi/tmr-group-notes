@@ -1,7 +1,7 @@
 
 
 
-in this course, hope you understand probability is from certain statistics,  not from random dice.
+in this course, hope you will understand probability is from deterministic statistics,  not from random dice.
 
 ## Understanding What Probability Means
 
@@ -47,7 +47,7 @@ $$\frac{no.theaters\space that\space pick\space out\space red}{total no.theaters
 
 Independent events are ones in which the outcome of one event does not affect the probability of the other event happening.
     
-    For example, if you are using two dice, you might want to know what the probability is that you will roll a double 3. The chance that you will throw a 3 with one die does not affect the chance that you will throw a 3 with the second die, thus the events are independent.
+***For example, if you are using two dice, you might want to know what the probability is that you will roll a double 3. The chance that you will throw a 3 with one die does not affect the chance that you will throw a 3 with the second die, thus the events are independent.***
 
 - Determine the probability of the first event. 
 
@@ -90,7 +90,7 @@ from the god of view, there are 36 theaters, in each theater, Actors perform a c
 
 A conditional event, also called a dependent event, is an event that may be affected by the event(s) that come before.
 
-    For example, if you are drawing from a standard deck of cards, you might want to know what the probability is of drawing a heart on the first and second draws. Drawing a heart the first time affects the probability of it happening again, because once you draw one heart, there are fewer hearts in the deck, and fewer cards in the deck.
+***For example, if you are drawing from a standard deck of cards, you might want to know what the probability is of drawing a heart on the first and second draws. Drawing a heart the first time affects the probability of it happening again, because once you draw one heart, there are fewer hearts in the deck, and fewer cards in the deck.***
 
 - Determine the probability of the first event happening. 
 
@@ -102,14 +102,14 @@ A conditional event, also called a dependent event, is an event that may be affe
 
 - Multiply the probabilities of the individual events. This will give you the probability of both events happening
 
-    For example, if the probability of pulling a heart on your first draw is ${\frac  {1}{4}}$, and the probability of pulling a heart on your second draw, given that you pulled a heart on your first draw, is ${\frac  {4}{17}}$, to find the probability of both events happening, you would calculate:${\frac  {1}{4}}\times {\frac  {4}{17}}={\frac  {4}{68}}={\frac  {1}{17}}$ So, the probability of pulling hearts on your first and second draw is 1 out of 17.
+    For example, if the probability of pulling a heart on your first draw is ${\frac  {1}{4}}$, and the probability of pulling a heart on your second draw, given that you pulled a heart on your first draw, is ${\frac  {4}{17}}$, to find the probability of both events happening, you would calculate: ${\frac  {1}{4}}\times {\frac  {4}{17}}={\frac  {4}{68}}={\frac  {1}{17}}$ So, the probability of pulling hearts on your first and second draw is 1 out of 17.
 
 
 ## 4.Understanding the Probability of Mutually Exclusive Events
 
 Mutually exclusive events are events that cannot happen at the same time.
 
-    For example, if you are rolling one die, you might want to know the probability of rolling a 3 or a 4. You cannot roll a 3 and a 4 with one die, so the events are mutually exclusive.
+***For example, if you are rolling one die, you might want to know the probability of rolling a 3 or a 4. You cannot roll a 3 and a 4 with one die, so the events are mutually exclusive.***
 
 - Determine the probability of the first event. 
 
@@ -121,7 +121,7 @@ Mutually exclusive events are events that cannot happen at the same time.
 
 - Add the probabilities of the individual events. This will give you the probability of either event happening
 
-    For example, if the probability of throwing a 3 with one die is ${\frac  {1}{6}}$, and the probability of throwing a 4 with one die is also ${\frac  {1}{6}}$, to find the probability of both events happening, you would calculate:${\frac  {1}{6}}+{\frac  {1}{6}}={\frac  {2}{6}}={\frac  {1}{3}}$ So, the probability of throwing a 3 or a 4 is 1 out of 3.
+    For example, if the probability of throwing a 3 with one die is ${\frac  {1}{6}}$, and the probability of throwing a 4 with one die is also ${\frac  {1}{6}}$, to find the probability of both events happening, you would calculate: ${\frac  {1}{6}}+{\frac  {1}{6}}={\frac  {2}{6}}={\frac  {1}{3}}$ So, the probability of throwing a 3 or a 4 is 1 out of 3.
 
 
 ## ref
