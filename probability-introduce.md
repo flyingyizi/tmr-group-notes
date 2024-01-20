@@ -132,6 +132,12 @@ In the problem, you are on a game show, being asked to choose between three door
 
 The solution is that switching will let you win twice as often as sticking with the original choice
 
+||channger sel 1|channger sel 2|channger sel 3|
+|-|-|-|-|
+|is 1|T:40|F:40|F:40|
+|is 2|F:40|T:40|F:40|
+|is 3|F:40|F:40|T:40|
+|||||
 
 ## ref
 
