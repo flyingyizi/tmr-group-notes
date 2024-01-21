@@ -139,6 +139,57 @@ The solution is that switching will let you win twice as often as sticking with 
 |is 3|F:40|F:40|T:40|
 |||||
 
+
+<table>
+<tr>
+  <th></th>
+  <th colspan="2">channger sel 1st</th>
+  <th colspan="2">channger sel 2rd</th>
+  <th colspan="2">channger sel 3th</th>
+</tr>
+
+<tr>
+  <th>host open</th>
+  <th>2rd</th>
+  <th>3th</th>
+  <th>1st</th>
+  <th>3th</th>
+  <th>1st</th>
+  <th>2rd</th>
+</tr>
+
+<tr>
+  <th>1st is car</th>
+  <th>T:20</th>
+  <th>T:20</th>
+  <th>-</th>
+  <th>F:40</th>
+  <th>-</th>
+  <th>F:40</th>
+</tr>
+<tr>
+  <th>2rd is car</th>
+  <th>-</th>
+  <th>F:40</th>
+  <th>T:20</th>
+  <th>T:20</th>
+  <th>F:40</th>
+  <th>-</th>
+</tr>
+<tr>
+  <th>3th is car</th>
+  <th>F:40</th>
+  <th>-</th>
+  <th>F:40</th>
+  <th>-</th>
+  <th>T:20</th>
+  <th>T:20</th>
+</tr>
+
+</table>
+
+
+
 ## ref
 
 Online Statistics Education: A Multimedia Course of Study (http://onlinestatbook.com/). Project Leader: David M. Lane, Rice University.
